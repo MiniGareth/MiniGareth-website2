@@ -1,0 +1,14 @@
+.blocks{
+	display: inline-block;
+}
+
+#block2{
+	margin: 50px;
+}
+
+.title{
+	position: absolute;
+	left: 700px;
+	top: 100px;
+	font-size: 45px;
+}
